@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Con10/1.0.0": {
+        "dependencies": {
+          "LibMenu": "1.0.0"
+        },
+        "runtime": {
+          "Con10.dll": {}
+        }
+      },
+      "LibMenu/1.0.0": {
+        "runtime": {
+          "LibMenu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Con10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibMenu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
